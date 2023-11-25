@@ -2,7 +2,7 @@ const aConfig = {
   a: 'A',
 }
 
-const bConfig = /*@__PURE__*/ Object.assign({}, aConfig, {
+const bConfig = /* @__PURE__ */ Object.assign({}, aConfig, {
   b: 'B',
 })
 
